@@ -34,7 +34,9 @@ Strengthened knowledge of JDBC and SQL for database operations.
 Gained hands-on experience in designing a console-based management system.
 Enhanced problem-solving skills in managing real-time data scenarios.
 
+<br> <br>
 Output:
+<br> <br>
 ![1](https://github.com/user-attachments/assets/e6a96ed1-f878-4fbe-b395-c415149066aa)
 <br> <br>
 
