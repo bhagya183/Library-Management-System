@@ -6,7 +6,7 @@ Technologies Used: Java, JDBC, MySQL (or the database used)
 Tools: IDE (Eclipse), MySQL Workbench
 
 Project Description:
-<br> <br>
+<br> 
 
 A console-based Library Management System that allows users to manage books efficiently. <br>
 The system leverages Java's JDBC to interact with a relational database for CRUD (Create, Read, Update, Delete) operations on book records.
