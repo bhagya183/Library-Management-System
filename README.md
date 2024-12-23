@@ -1,8 +1,8 @@
 # Library-Management-System
-Java - console Based Management System (Mini Project)
 <br> <br>
 
 Library Management System (Console-Based Application)
+<br> <br>
 Technologies Used: Java, JDBC, MySQL (or the database used)
 Tools: IDE (Eclipse), MySQL Workbench
 
